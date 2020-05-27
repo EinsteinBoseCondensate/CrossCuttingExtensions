@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\CrossCuttingExtensions\bin\Debug\netcoreapp3.1\config-back-ups\appsettings.Development.json
+C:\Users\root\source\repos\CrossCuttingExtensions\bin\Debug\netcoreapp3.1\config-back-ups\appsettings.json
+C:\Users\root\source\repos\CrossCuttingExtensions\bin\Debug\netcoreapp3.1\CrossCuttingExtensions.deps.json
+C:\Users\root\source\repos\CrossCuttingExtensions\bin\Debug\netcoreapp3.1\CrossCuttingExtensions.dll
+C:\Users\root\source\repos\CrossCuttingExtensions\bin\Debug\netcoreapp3.1\CrossCuttingExtensions.pdb
+C:\Users\root\source\repos\CrossCuttingExtensions\obj\Debug\netcoreapp3.1\CrossCuttingExtensions.csprojAssemblyReference.cache
+C:\Users\root\source\repos\CrossCuttingExtensions\obj\Debug\netcoreapp3.1\CrossCuttingExtensions.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\CrossCuttingExtensions\obj\Debug\netcoreapp3.1\CrossCuttingExtensions.AssemblyInfo.cs
+C:\Users\root\source\repos\CrossCuttingExtensions\obj\Debug\netcoreapp3.1\CrossCuttingExtensions.dll
+C:\Users\root\source\repos\CrossCuttingExtensions\obj\Debug\netcoreapp3.1\CrossCuttingExtensions.pdb
